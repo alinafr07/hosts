@@ -11,5 +11,5 @@ do
         verifica_ip "$name" "$ip" "10.255.255.254"
     fi
 done
-
+echo "Modificat de al doilea cont"
 exit 0
